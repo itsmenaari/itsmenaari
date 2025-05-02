@@ -10,6 +10,8 @@ I'm a passionate **Flutter Developer** who loves building amazing apps with a gr
 - 📝 **Notes & To-Do List App**
 - 📂 **PDF Tools App**
 - ☁️ **Cloud Storage App (Google Drive Alternative)**
+- 🎵 **Music Streaming App**
+- 🎥 **Movies and Web Series Streaming App**
 
 ## 🎯 Goals
 
@@ -20,16 +22,20 @@ I'm a passionate **Flutter Developer** who loves building amazing apps with a gr
 ## 💡 Tech Stack
 
 - **Mobile Development:** Flutter (Dart)
+- **Web Development:** Flutter (Dart)
+- **Linux Development:** Flutter (Dart)
+- **Mac Development:** Flutter (Dart)
+- **Windows Development:** Flutter (Dart)
 - **Backend:** Dart Frog, Flask (Python)
 - **Database:** Firebase, PostgreSQL, SQLite
 - **Version Control:** Git & GitHub
-- **Deployment:** Render, Firebase Hosting
+- **Deployment:** Render, Firebase Hosting, Vercel
 
 ## 📌 Connect with Me
 
-- 🌐 [Portfolio Website](#)
+- 🌐 [Portfolio Website](#) (Coming soon!)
 - 🐦 [Twitter](https://x.com/me_narayan_vi)
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](#) (Coming soon!)
 - 📺 [YouTube](#) (Coming soon!)
 
 Let's build something amazing together! 🚀
